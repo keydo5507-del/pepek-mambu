@@ -1,0 +1,10 @@
+# ============================================
+# PERINTAH SET WEBHOOK
+# Copy link di bawah ini, lalu buka di browser HP/Laptop
+# ============================================
+
+https://api.telegram.org/bot8925467259:AAGdU1tiizOJ_VnG-1BQ2R7K37eOHwDjYLY/setWebhook?url=https://key-md-bot-telegram.vercel.app/api
+
+
+# Setelah dibuka, harus muncul tulisan:
+# {"ok":true,"result":true,"description":"Webhook was set"}
