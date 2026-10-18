@@ -1,0 +1,24 @@
+# ============================================
+# ENVIRONMENT VARIABLES UNTUK VERCEL
+# Copy-paste satu per satu ke Vercel → Settings → Environment Variables
+# ============================================
+
+ENV=ANYTHING
+
+TOKEN=8925467259:AAGdU1tiizOJ_VnG-1BQ2R7K37eOHwDjYLY
+
+OWNER_ID=6999994735
+
+OWNER_USERNAME=keystr270811
+
+WEBHOOK=True
+
+URL=https://key-md-bot-telegram.vercel.app/
+
+DATABASE_URL=postgresql://neondb_owner:npg_sLLhZ7it8VxX@ep-wispy-band-az7616lc-pooler.c-3.ap-southeast-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require
+
+DEL_CMDS=True
+
+STRICT_GBAN=True
+
+ALLOW_EXCL=True
